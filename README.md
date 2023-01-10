@@ -3,8 +3,8 @@
 I am passionate about New Information Technologies. My ambition is to make a career in the design and development of Business Intelligence, Machine Learning and Data Engineering solutions. I am open to work on any project as internship or freelance.
 
 - 🔭 I’m currently working on Bookstorex-management
-- 🌱 I’m currently learning Data structures and operationg systems 
-- 📫 How to reach me: oelfigha2002@gmail.com 
+- 🌱 I’m currently learning Security Systems and advanced web programming
+- 📫 How to reach me: oelfigha2002@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="PNG/Power-BI.png"><img src="PNG/Power-BI.png" height="25"/></a>|<a href="SVG/Power-BI.svg"><img src="SVG/Power-BI.svg" height="25"/></a>
