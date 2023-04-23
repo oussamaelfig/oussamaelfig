@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋, I'm ELFI</h2>
+<h1 align="center">Hi 👋, I'm ELFI</h2>
 
 ###
 
-<h3 align="center">Bachelor Student at University of Quebec at Montreal | Computer Science and Software Engineering</h3>
+<h2 align="center">Bachelor Student at University of Quebec at Montreal | Computer Science and Software Engineering</h3>
 
 ###
 
