@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Bachelor Student at University of Quebec at Montreal | Computer Science and Software Engineering</h4>
+<h3 align="center">Bachelor Student at University of Quebec at Montreal | Computer Science and Software Engineering</h3>
 
 ###
 
