@@ -58,12 +58,13 @@ oussamaelfig@github
 ### 💻 Software and Tools
 
 <p>
+    <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?&logo=kali-linux&logoColor=white">
+    <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?&logo=Databricks&logoColor=white">
+    <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?&logo=Power%20BI&logoColor=white">
     <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20-%23000000.svg?logo=intellijidea&logoColor=white">
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=Docker&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
