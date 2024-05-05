@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="left" src="https://github.com/oussamaelfig/oussamaelfig/blob/main/m6Jj8UHJjELfmWv7rgAawslEghD196IMLHmgdvwPB3o.png" width="320" />
+<img align="left" src="https://external-preview.redd.it/m6Jj8UHJjELfmWv7rgAawslEghD196IMLHmgdvwPB3o.gif?width=360&format=mp4&s=eb6d42a189f33e3a578768302db0a1fd84765bf4" width="320" />
 <hr>
 
 ```
