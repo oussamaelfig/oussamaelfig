@@ -23,11 +23,10 @@ oussamaelfig@github
 ### 👨‍💻 Programming languages
 
 <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
     <img alt="Cpp" src="https://img.shields.io/badge/-%23659BD3.svg?logo=cplusplus&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/%20-%23659BD3.svg?logo=c&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
     <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%232F74C0.svg?logo=typescript&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
@@ -36,25 +35,24 @@ oussamaelfig@github
 ### 🧰 Frameworks et Libraries
 
 <p>
-    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?logo=flask&logoColor=white">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?&logo=numpy&logoColor=white">
     <img alt="Pyspark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?&logo=apachespark&logoColor=#E35A16">
     <img alt="Scikitlearn" src="https://img.shields.io/badge/scikit_learn-F7931E?&logo=scikit-learn&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?logo=flask&logoColor=white">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
 
 </p>
 
-### 🗄️ Bases de données and Hébergmenet
+### 🗄️ Cloud and Databases
 
 <p>
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white">
-    <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
-    <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white">
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white)">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white">
+    <img alt="Postgresql" src ="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white">
     <img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white">
+    <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white">
 </p>
 
 ### 💻 Software and Tools
