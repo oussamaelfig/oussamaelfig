@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="left" src="https://github.com/oussamaelfig/oussamaelfig/blob/main/Cocktail_pic.jpg" width="320" />
+<img align="left" src="https://github.com/oussamaelfig/oussamaelfig/blob/main/Cocktail_pic1.jpg" width="320" />
 <hr>
 
 ```
