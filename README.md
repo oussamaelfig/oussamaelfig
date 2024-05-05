@@ -8,7 +8,7 @@
 ```
 oussamaelfig@github
 -------------------------
-💻 I graduated from the Bac in Computer Science and Software Engineering at UQAM
+💻 I graduated from a Bachelor in Computer Science and Software Engineering at UQÀM
 📚 I'm currently pursuing a master's degree in Machine learning at Polytechnique Montreal
 📝 I enjoy learning more about cybersecurity and AI/ML
 🔭 I'm open to contribute to projects, don't hesitate to contact me to learn more
@@ -18,17 +18,14 @@ oussamaelfig@github
 
 <hr>
 
-## 🛠️ Les outils que je préfères
+## 🛠️ My favorite tools
 
-### 👨‍💻 Langages de programmation
+### 👨‍💻 Programming languages
 
 <p>
-    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%231572B6.svg?logo=dart&logoColor=white">
-    <img alt="CSharp" src="https://img.shields.io/badge/-%23E34F26.svg?logo=csharp&logoColor=white">
     <img alt="Cpp" src="https://img.shields.io/badge/-%23659BD3.svg?logo=cplusplus&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/%20-%23659BD3.svg?logo=c&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
     <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%232F74C0.svg?logo=typescript&logoColor=white">
@@ -40,13 +37,12 @@ oussamaelfig@github
 
 <p>
     <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?logo=flask&logoColor=white">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white">
-    <img alt="Android" src="https://img.shields.io/badge/Android%20-%233DDC84.svg?logo=android&logoColor=white">
-    <img alt=".NET" src="https://img.shields.io/badge/%20-%23512BD4.svg?logo=.net&logoColor=white">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=61DAFB">
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?&logo=numpy&logoColor=white">
+    <img alt="Pyspark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?&logo=apachespark&logoColor=#E35A16">
+    <img alt="Scikitlearn" src="https://img.shields.io/badge/scikit_learn-F7931E?&logo=scikit-learn&logoColor=white">
 
 </p>
 
