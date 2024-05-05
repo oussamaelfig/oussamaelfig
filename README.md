@@ -4,9 +4,6 @@
 
 <img align="left" src="https://external-preview.redd.it/m6Jj8UHJjELfmWv7rgAawslEghD196IMLHmgdvwPB3o.gif?width=360&format=mp4&s=eb6d42a189f33e3a578768302db0a1fd84765bf4" width="320" />
 
-  <source src="https://external-preview.redd.it/m6Jj8UHJjELfmWv7rgAawslEghD196IMLHmgdvwPB3o.gif" type="video/mp4">
-
-
 <hr>
 
 ```
