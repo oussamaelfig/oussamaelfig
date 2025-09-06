@@ -9,11 +9,10 @@
 ```
 oussamaelfig@github
 -------------------------
-💻 I graduated from a Bachelor in Computer Science and Software Engineering at UQÀM
-📚 I'm currently pursuing a master's degree in Machine learning at Polytechnique Montreal
+💻 I graduated from a Bachelor in Computer Science and Software Engineering at @UQÀM & Masters in Cyber Security at @Polymtl
 📝 I enjoy learning more about cybersecurity and AI/ML
 🔭 I'm open to contribute to projects, don't hesitate to contact me to learn more
-🌟 I work as an Analyst in the Risk Advisory - Cyber Infrastructure Security team
+🌟 I work as a Consultant in the Cyber Architecture and Cloud Security team
 🚩 I love CTF
 ```
 
